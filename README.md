@@ -61,7 +61,7 @@ cd cashier-flow
 **3. Execute o programa**
 
 ```bash
-python troco.py
+python main.py
 ```
 
 **4. Informe os valores**
@@ -73,11 +73,11 @@ Digite o valor total da compra e o valor pago pelo cliente. O sistema calculará
 ```text
 cashier-flow/
 ├── README.md
-└── troco.py
+└── main.py
 ```
 
 - 📘 `README.md`: documentação do projeto.
-- 🐍 `troco.py`: código Python responsável pela validação do pagamento e pelo cálculo do troco.
+- 🐍 `main.py`: código Python responsável pela validação do pagamento e pelo cálculo do troco.
 
 ## 💻 Acesse o Projeto
 
